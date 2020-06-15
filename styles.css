@@ -1,3 +1,6 @@
+body{
+	background-color: lightgrey;
+}
 th,h1{
 	color: blue;
 }
@@ -13,10 +16,10 @@ div{
 	background-color: teal;
 }
 
-h1{
-	margin: 50px;
-}
-
 th{
 	background-color: lightgray;
+}
+
+button:hover {
+	background-color: orange;
 }
