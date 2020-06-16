@@ -1,10 +1,10 @@
 body{
-	background-color: lightgrey;
+	background-color: grey;
 }
 th,h1{
 	color: blue;
 }
-.tab,th{
+table,th,td{
 	text-align: center;
 	border: 1px solid black;
 	border-collapse: collapse;
@@ -23,8 +23,11 @@ ul, p, h3 {
 }
 
 footer {
-  text-align: center;
-  padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
+	background-color: #888888;
+	text-align: center;
+	padding: 3px;
+}
+
+#main{
+	background-color: lightgrey;
 }
